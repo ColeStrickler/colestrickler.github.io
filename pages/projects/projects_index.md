@@ -16,7 +16,7 @@ These are a few of the larger projects I have worked on in the past couple of ye
 *   Pretty much a Minecraft clone in OpenGL
 
 #### [MemGuard Port](/pages/projects/memguard-port.html).
-*   Port of MemGuard to FireSim environment 
+*   Port of MemGuard to RISC-V & FireSim environment 
 *   Modification of RocketChip L2 Cache with performance counters and interrupts
 *   MemGuard driver modification to support PLIC routing
 
