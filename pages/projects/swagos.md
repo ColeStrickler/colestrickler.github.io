@@ -2,7 +2,7 @@
 layout: post
 ---
 
-See full project and source code here: #### [SwagOS Source](https://github.com/ColeStrickler/swagOS/tree/main).
+See full project and source code here: [SwagOS Source](https://github.com/ColeStrickler/swagOS/tree/main).
 
 
 The goal of this project was to build a fully functional SMP operating for x86-64. This was a substantial undertaking that entailed the following tasks:
@@ -27,3 +27,4 @@ The goal of this project was to build a fully functional SMP operating for x86-6
 *   Creating clones of basic UNIX programs such as cat, clear, ls, etc.
 *   Learned how to effectively organize a complex build process
 
+![swagos-terminal](/assets/img/swagos.gif)
