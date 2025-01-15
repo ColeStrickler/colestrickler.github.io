@@ -1,3 +1,4 @@
+---
 layout: post
 ---
 
@@ -12,7 +13,7 @@ This project entailed the following:
 *   Creating an asynchronous logging and event system
 *   Creating a performance profiling mechanism based on RAII paradigms
 *   Creating an model loader to load blender models into the world
-*   Writing various vertex, geometry, and pixel shaders for the graphics pipeline\
+*   Writing various vertex, geometry, and pixel shaders for the graphics pipeline
 *   Writing a custom GPU memory allocator so we can render the entire world in a single draw call
 *   Writing a renderer
 *   Creating various Minecraft game mechanics such as placing blocks, chunk generation, ore generation, biomes, etc.
