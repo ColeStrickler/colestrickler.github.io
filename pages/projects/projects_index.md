@@ -41,7 +41,7 @@ These are a few of the larger projects I have worked on in the past couple of ye
 #### [SDT Calculator](/pages/projects/sdt-calculator.html)
 *   A simple command line calculator that computes using values using an SDT parser
 
-#### [Better Than Hex](/pages/projects/bth.html)
+#### [BTH](/pages/projects/bth.html)
 *   Lightweight reverse engineering tool for Windows binaries
 *   I used this tool actively in the field ! The scripting engine is powerful if you're creative, and fast!
 
