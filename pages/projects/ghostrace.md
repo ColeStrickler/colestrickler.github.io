@@ -13,4 +13,4 @@ In this project we reimplemented the micro-architectural attack performed via sp
 *   Harness to leverage the attack and leak arbitrary kernel data
 
 
-![voxelworld](/assets/img/ghostrace.png)
+![ghostrace](/assets/img/ghostrace.png)
