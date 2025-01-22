@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+
+
+    <style>
+    body {
+      transform: scale(1.5); /* Zoom in 150% */
+      transform-origin: 0 0; /* Ensure scaling starts from the top-left corner */
+    }
+    </style>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -13,6 +21,7 @@
     {% include head-custom.html %}
   </head>
   <body>
+    
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -33,7 +42,7 @@
 
         <p class="view"><a href="/pages/blog/">Blog</a></p>
         <p class="view"><a href="/pages/projects/projects_index.html">Projects</a></p>
-        <p class="view"><a href="/pages/books/">Projects</a></p>
+        <p class="view"><a href="/pages/books/">Books</a></p>
         {% if site.show_downloads %}
         {% endif %}
       </header>
