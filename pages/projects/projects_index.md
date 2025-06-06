@@ -26,6 +26,9 @@ These are a few of the larger projects I have worked on in the past couple of ye
 #### [CS:GO Mod Menu](/pages/projects/csgo-haxorz.html)
 *   Full scale mod menu for Counter-Strike Global Offensive that is undetectable online
 
+#### [DNN Framework in C++](/pages/projects/dnn-from-scratch.html)
+*   DNN framework in raw C++. Supports both training and loading weights
+
 #### [RegEx Compiler/Scanner Generator](/pages/projects/regex-compiler.html)
 *   Complete scanner generator suitable for a compiler front-end
 
