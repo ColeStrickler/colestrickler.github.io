@@ -13,7 +13,7 @@ description: Cole Strickler is a PhD researcher in computer architecture and sys
 
 <section id="home">
   <h1>Systems and computer architecture research</h1>
-  <p>I am a PhD student in Computer Science at the <a href="https://eecs.ku.edu/">University of Kansas</a>.</p>
+  <p>I am a PhD student in Computer Science at the <a href="https://eecs.ku.edu/">University of Kansas</a> and am advised by <a href="https://www.ittc.ku.edu/~heechul/">Dr. Heechul Yun</a>.</p>
   <p>I study programmable data transformation and predictable memory systems across the full computing stack—from applications and domain-specific languages to compilers, operating systems, and SoC design.</p>
 </section>
 
