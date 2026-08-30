@@ -1,4 +1,125 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "fonts";
+
+body {
+  background: #fff;
+  color: #727272;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  padding: 50px;
+}
+
+.wrapper {
+  width: 860px;
+  margin: 0 auto;
+}
+
+header {
+  width: 270px;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+header h1 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  line-height: 1.05;
+}
+
+header h1 a { color: #267cb9; }
+
+.profile-photo {
+  display: block;
+  width: 240px;
+  height: 240px;
+  margin-bottom: 4px;
+  object-fit: cover;
+}
+
+main {
+  width: 500px;
+  float: right;
+  padding-bottom: 70px;
+}
+
+footer {
+  width: 270px;
+  position: fixed;
+  bottom: 30px;
+  color: #aaa;
+  font-size: 11px;
+}
+
+h1, h2, h3 {
+  color: #393939;
+  line-height: 1.15;
+}
+
+main h1 {
+  margin: 0 0 20px;
+  font-size: 25px;
+}
+
+h2 {
+  margin: 28px 0 14px;
+  font-size: 22px;
+}
+
+h3 {
+  margin: 20px 0 7px;
+  font-size: 16px;
+}
+
+p, ul { margin: 0 0 20px; }
+ul { padding-left: 35px; }
+li { margin-bottom: 7px; }
+
+a {
+  color: #267cb9;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #069;
+  text-decoration: underline;
+}
+
+strong { color: #494949; font-weight: 700; }
+
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 23px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.page-nav span { color: #ddd; }
+.publications li { margin-bottom: 10px; }
+section { scroll-margin-top: 20px; }
+
+@media print, screen and (max-width: 960px) {
+  body { padding: 35px; }
+  .wrapper { width: auto; margin: 0; }
+  header, main, footer { width: auto; position: static; float: none; }
+  header { margin-bottom: 30px; }
+  header h1 br { display: none; }
+  header h1 br::after { content: " "; }
+  .profile-photo { width: 180px; height: 180px; }
+  main { border-top: 1px solid #e5e5e5; padding-top: 25px; }
+  footer { margin-top: 25px; }
+}
+
+@media screen and (max-width: 520px) {
+  body { padding: 20px; word-wrap: break-word; }
+  .page-nav { align-items: flex-start; flex-direction: column; gap: 6px; }
+  .page-nav span { display: none; }
+}
+
+@media print {
+  body { padding: .4in; color: #444; font-size: 12pt; }
+  .page-nav, footer { display: none; }
+}

@@ -1,6 +1,13 @@
 title: Cole Strickler
-logo: /assets/img/logo.jpg
-description: systems and hardware
-show_downloads: true
+description: Computer architecture researcher building full-stack systems across compilers, operating systems, memory hierarchies, and RISC-V hardware.
+url: https://colestrickler.github.io
+author: Cole Strickler
+lang: en-US
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - docs
+  - script
+  - README.md
