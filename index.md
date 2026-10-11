@@ -42,6 +42,7 @@ description: Cole Strickler is a PhD researcher in computer architecture and sys
 <section id="experience">
   <h2>Experience</h2>
   <ul>
+    <li><strong>Graduate Teaching Assistant</strong>, University of Kansas, 2026–present, EECS 635 Embedded Machine Learning</li>
     <li><strong>Graduate Research Assistant</strong>, University of Kansas, 2024–present</li>
     <li><strong>Cyber Security Analyst</strong>, Garmin International, 2022–2023</li>
   </ul>
