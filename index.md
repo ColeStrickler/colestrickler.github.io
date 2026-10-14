@@ -31,11 +31,11 @@ description: Cole Strickler is a PhD researcher in computer architecture and sys
 <section id="publications">
   <h2>Publications</h2>
   <ul class="publications">
-    <li><strong>Cole Strickler</strong>, Manos Athanassoulis, Renato Mancuso, and Heechul Yun, “<strong>Programmable Data Layouts via On-the-Fly Data Transformation</strong>,” ASPLOS 2027. <a href="https://arxiv.org/pdf/2610.15193">.</li>
-    <li>Connor Sullivan, Amin Mamandipoor, <strong>Cole Strickler</strong>, and Heechul Yun, “<strong>Per-Bank Memory Bandwidth Regulation for Predictable and Performant Real-Time Systems</strong>,” RTAS 2026. Best Student Paper Award. <a href="https://ittc.ku.edu/~heechul/papers/perbank-dram-bru-rtas2026-camera.pdf">paper</a> · <a href="https://doi.org/10.1109/RTAS68450.2026.00025">doi</a></li>
+    <li><strong>Cole Strickler</strong>, Manos Athanassoulis, Renato Mancuso, and Heechul Yun, “<strong>Programmable Data Layouts via On-the-Fly Data Transformation</strong>,” ASPLOS 2027. <a href="https://arxiv.org/pdf/2610.15193"> Paper</a>.</li>
+    <li>Connor Sullivan, Amin Mamandipoor, <strong>Cole Strickler</strong>, and Heechul Yun, “<strong>Per-Bank Memory Bandwidth Regulation for Predictable and Performant Real-Time Systems</strong>,” RTAS 2026. Best Student Paper Award. <a href="https://ittc.ku.edu/~heechul/papers/perbank-dram-bru-rtas2026-camera.pdf">Paper</a> · <a href="https://doi.org/10.1109/RTAS68450.2026.00025">doi</a></li>
     <li>Amin Mamandipoor, Connor Sullivan, <strong>Cole Strickler</strong>, Mohammad Alian, and Heechul Yun, “<strong>SBA: A Practical Memory Performance Denial-of-Service Attack</strong>,” uASC 2027. Accepted.</li>
-    <li>Denis Hoornaert, <strong>Cole Strickler</strong>, Manos Athanassoulis, Marco Caccamo, Heechul Yun, and Renato Mancuso, “<strong>Tensor Memory Engine: On-the-fly Data Reorganization for Ideal Locality</strong>,” arXiv 2026. <a href="https://arxiv.org/abs/2604.13319">paper</a></li>
-    <li><strong>Cole Strickler</strong>, Ju Hyoung Mun, Connor Sullivan, Denis Hoornaert, Renato Mancuso, Manos Athanassoulis, and Heechul Yun, “<strong>Microarchitectural Exploration of the Relational Memory Engine on a RISC-V SoC Using FireSim</strong>,” ADMS 2025. <a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/ADMS/ADMS25-08.pdf">paper</a></li>
+    <li>Denis Hoornaert, <strong>Cole Strickler</strong>, Manos Athanassoulis, Marco Caccamo, Heechul Yun, and Renato Mancuso, “<strong>Tensor Memory Engine: On-the-fly Data Reorganization for Ideal Locality</strong>,” arXiv 2026. <a href="https://arxiv.org/abs/2604.13319">Paper</a></li>
+    <li><strong>Cole Strickler</strong>, Ju Hyoung Mun, Connor Sullivan, Denis Hoornaert, Renato Mancuso, Manos Athanassoulis, and Heechul Yun, “<strong>Microarchitectural Exploration of the Relational Memory Engine on a RISC-V SoC Using FireSim</strong>,” ADMS 2025. <a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/ADMS/ADMS25-08.pdf">Paper</a></li>
   </ul>
   <p><a href="https://scholar.google.com/citations?user=L6txomUAAAAJ&amp;hl=en">Google Scholar</a></p>
 </section>
